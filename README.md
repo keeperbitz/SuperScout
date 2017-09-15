@@ -4,13 +4,13 @@ collapse, robots would receive a blueprint, enter a building, detect changes in 
 
 The following variables were simulated in these ways: 
 
-Robot: Arduino
-Blueprint: Text in Form of 2D Array
-Building: Wood With Boxes to Simulate Walls
-Detection of Environmental Changes/People: Infrared Communication
-Video Feedback: Serial Communication and Skype(not included)
-Method of Area Surveillance: Right Hand Rule Algorithm in C++
-Movement: Wheel Encoders on Arduino Bots
+Robot: Arduino \n
+Blueprint: Text in Form of 2D Array \n
+Building: Wood With Boxes to Simulate Walls \n
+Detection of Environmental Changes/People: Infrared Communication \n 
+Video Feedback: Serial Communication and Skype(not included) \n
+Method of Area Surveillance: Right Hand Rule Algorithm in C++ \n
+Movement: Wheel Encoders on Arduino Bots\n 
 
 https://www.youtube.com/watch?v=xtQZQGSPMwA&t=1s 
 Link to Project Video
